@@ -4,7 +4,7 @@ This repository contains an example project demonstrating the usage of the LLVM 
 
 ## Prerequisites
 
-Ensure you have Nix installed on your system. If not, you can install it by following the instructions [here](https://nixos.org/guides/install-nix.html).
+Ensure you have Nix installed on your system. If not, you can install it by following the instructions [here](https://nixos.org/download#download-nix).
 
 ## Usage
 
