@@ -38,4 +38,4 @@ Feel free to explore the project and modify it according to your needs!
 
 ---
 
-Users can follow these simple steps to set up and run the LLVM linker example project. Make sure to replace the repository URL in the cloning step with the actual URL of your GitHub repository.
+Users can follow these simple steps to set up and run the LLVM linker example project. 
